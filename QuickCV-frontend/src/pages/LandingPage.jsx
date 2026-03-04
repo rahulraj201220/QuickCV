@@ -2,7 +2,8 @@ import React from "react";
 import { Link } from "react-router";
 import { useUser, SignInButton } from "@clerk/clerk-react";
 import { useNavigate } from "react-router-dom";
-import {ManImage,WomenImage} from './assets/ManImage.jpg';
+import ManImage from '../assets/ManImage.jpg';
+import WomenImage from '../assets/WomenImage.jpg';
 
 export const LandingPage = () => {
   const { isSignedIn } = useUser();
