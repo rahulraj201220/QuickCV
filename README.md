@@ -159,16 +159,16 @@ Backend separated from authentication logic
 No passwords stored locally; cloud-managed authentication
 
 
-**🚀 Future Enhancements**
-💳 Subscription Model: Free tier vs Paid tier with unlimited generations and premium AI models
-🧠 AI-Based Interview Preparation: Auto-generated interview questions, mock simulations
-📊 ATS Scoring System: Keyword optimization, resume scoring
-💼 Job Portal Integration: Smart job matching and auto-apply
-💬 AI Chat Assistant: Resume improvements & career advice
-📧 Automatic Email System: Send resumes directly to recruiters, generate cover letters
-📈 Scalability: Database for resume history, role-based access, multi-AI switching, microservices-ready
+****🚀 Future Enhancements**
+-💳 Subscription Model: Free tier vs Paid tier with unlimited generations and premium AI models
+-🧠 AI-Based Interview Preparation: Auto-generated interview questions, mock simulations
+-📊 ATS Scoring System: Keyword optimization, resume scoring
+-💼 Job Portal Integration: Smart job matching and auto-apply
+-💬 AI Chat Assistant: Resume improvements & career advice
+-📧 Automatic Email System: Send resumes directly to recruiters, generate cover letters
+-📈 Scalability: Database for resume history, role-based access, multi-AI switching, microservices-ready**
 
 **👨‍💻 Author**
 
-Rahul Raj
-LinkedIn - https://linkedin.com/in/rahulraj201220
+-Rahul Raj
+-LinkedIn - https://linkedin.com/in/rahulraj201220
