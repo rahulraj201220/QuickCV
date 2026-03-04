@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router";
 import { useUser, SignInButton } from "@clerk/clerk-react";
 import { useNavigate } from "react-router-dom";
+import {ManImage,WomenImage} from './assets/ManImage.jpg';
 
 export const LandingPage = () => {
   const { isSignedIn } = useUser();
@@ -99,7 +100,7 @@ export const LandingPage = () => {
                   <div className="avatar">
                     <div className="w-12 rounded-full">
                       <img
-                        src="/src/assets/ManImage.jpg"
+                        src={ManImage}
                         alt="User"
                       />
                     </div>
@@ -122,7 +123,7 @@ export const LandingPage = () => {
                   <div className="avatar">
                     <div className="w-12 rounded-full">
                       <img
-                        src="/src/assets/WomenImage.jpg"
+                        src={WomenImage}
                         alt="User"
                       />
                     </div>
